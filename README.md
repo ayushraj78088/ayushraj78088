@@ -20,27 +20,50 @@
 
 ## 🚀 About Me
 
-* 🎓 3rd Year **Computer Science Student**
-* 💻 Learning **Full Stack Development**
-* 🧠 Improving **Data Structures & Algorithms**
-* 🌐 Building projects with **React, Next.js, Node.js & MongoDB**
-* ⚡ I enjoy solving coding problems and turning ideas into real applications
+* 🎓 Final Year **Computer Science Engineering Student**
+* 💻 Full Stack Developer specializing in the MERN Stack
+* 🧠 Passionate about Data Structures & Algorithms
+* 🚀 Building production-ready web applications
+* 🌱 Continuously learning Backend Development & System Design
+* ⚡ Always excited to solve problems and create impactful software
 
 ---
 
 ## ❤️ Interests
 
-* 💻 Building web applications
-* 🌍 Open source
-* 🧠 Problem solving
-* 📚 Learning new technologies
+* 💻 Full Stack Development
+* 🧠 Problem Solving & DSA
+* 🌍 Open Source
+* ⚙️ Backend Engineering
+* 🚀 Building Scalable Web Applications
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,vscode,linux,npm,vercel&perline=9" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### ⛃ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
 
 ---
