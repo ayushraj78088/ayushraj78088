@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Final Year **Computer Science Engineering Student**
+* 🎓 Computer Science Engineering Student
 * 💻 Full Stack Developer specializing in the MERN Stack
 * 🧠 Passionate about Data Structures & Algorithms
 * 🚀 Building production-ready web applications
